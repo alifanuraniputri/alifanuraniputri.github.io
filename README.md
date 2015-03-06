@@ -1,2 +1,6 @@
 # alifanuraniputri.github.io
-love codes, love pages
+female coder, love codes,  love apps
+
+
+credits:
+* Tzadkiel & Demorros from colourlovers.com
