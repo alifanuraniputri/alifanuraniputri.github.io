@@ -1,7 +1,6 @@
 # alifanuraniputri.github.io
-female coder, love codes,  love apps
+code with the heart, develope from the heart
 
 
 credits:
-* Tzadkiel & Demorros from colourlovers.com
-* Mokey Digital themes from thebootstrapthemes.com
+http://www.bootstrapzero.com/bootstrap-template/clean
