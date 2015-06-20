@@ -279,6 +279,7 @@ textarea.form-control {
 	font-family: Raleway, "Times New Roman", Times, sans-serif;
 	font-style: normal;
 	font-size: 18px;
+	text-align: center;
 }
 
 .pfblock-line {
@@ -365,7 +366,7 @@ textarea.form-control {
 }
 
 .intro {
-	margin-top: 50px;
+	margin-top: 30px;
 	position: absolute;
 	width: 100%;
 	top: 50%;
@@ -397,11 +398,11 @@ textarea.form-control {
     background-size: contain;
 	margin: 0 auto;
 	margin-bottom: 10px;
-	width: 200px;
-	height: 200px;
-	border-radius: 100px;
-	-webkit-border-radius: 100px;
-	-moz-border-radius: 100px;
+	width: 180px;
+	height: 180px;
+	border-radius: 90px;
+	-webkit-border-radius: 90px;
+	-moz-border-radius: 90px;
 	background: url(../images/me.jpg) center center no-repeat;
 	background-size: 100%;
 	background-position: center;
